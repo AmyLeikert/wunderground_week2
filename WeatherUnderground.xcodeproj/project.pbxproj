@@ -21,7 +21,8 @@
 		8381AAE4190AA824006D1827 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 8381AAC3190AA824006D1827 /* Foundation.framework */; };
 		8381AAE5190AA824006D1827 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 8381AAC7190AA824006D1827 /* UIKit.framework */; };
 		8381AAED190AA824006D1827 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 8381AAEB190AA824006D1827 /* InfoPlist.strings */; };
-		8381AAF9190AB50F006D1827 /* TWUViewControllerSpec.m in Sources */ = {isa = PBXBuildFile; fileRef = 8381AAF8190AB50F006D1827 /* TWUViewControllerSpec.m */; };
+		83AC026E190C9F7E008142F8 /* TWUViewControllerSpec.m in Sources */ = {isa = PBXBuildFile; fileRef = 8381AAF8190AB50F006D1827 /* TWUViewControllerSpec.m */; };
+		83AC026F190C9F8C008142F8 /* TWUViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 8381AAD9190AA824006D1827 /* TWUViewController.m */; };
 		883A943BF85F4A448BEA3EE7 /* libPods.a in Frameworks */ = {isa = PBXBuildFile; fileRef = F7E814A945AE4D65B6B36F17 /* libPods.a */; };
 /* End PBXBuildFile section */
 
@@ -339,7 +340,8 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				8381AAF9190AB50F006D1827 /* TWUViewControllerSpec.m in Sources */,
+				83AC026E190C9F7E008142F8 /* TWUViewControllerSpec.m in Sources */,
+				83AC026F190C9F8C008142F8 /* TWUViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
